@@ -42,7 +42,7 @@ For the completion of the exercise we are expecting from you to do the following
 As a user I would like to be able to see all countries and capitals on my iPhone device.
 
 Technical Requirements
-- The list of capitals and countries can be retrieved using the public API located [here](https://restcountries.eu/rest/v2/all).
+- The list of capitals and countries can be retrieved using the public API located [here](https://restcountries.com/v2/all).
 - No third party library / framework should be used throughout the implementation.
 - The implementation should be primarily focused on iPhone devices.
 
